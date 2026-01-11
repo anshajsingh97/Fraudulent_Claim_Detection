@@ -12,11 +12,11 @@ Repository Contents
 The repository includes the following files:
 Fraudulent_Claim_Detection_Anshaj_Singh.ipynb
 Complete Jupyter Notebook containing data preparation, analysis, model building, evaluation, and conclusions.
-Fraudulent Claim Detection - Project Report.pdf
+Fraudulent Claim Detection – Project Report.pdf
 Detailed project report explaining the approach, analysis, results, and business insights.
 Fraud Claim Detection PPT.pdf
 Presentation summarising the problem, key findings, and final conclusions.
 Notes
 The notebook follows the assignment structure provided.
 All analysis, modeling, and conclusions are aligned with the project objectives.
-The final model selection is based on validation performance and business relevance.
+The final model selection is based on validation performance and business relevance
